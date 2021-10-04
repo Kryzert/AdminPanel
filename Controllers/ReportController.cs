@@ -11,7 +11,7 @@ using Microsoft.Extensions.Logging;
 
 namespace AdminPanel.Controllers
 {
-    [Route("report")]
+    [Route("user")]
     [ApiController]
     
     public class ReportController : Controller
